@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #0f172a; 
+    background: #0f172a;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -164,9 +164,11 @@ button:hover {
     .screen {
         padding: 1rem;
     }
+
     #start-screen h1 {
         font-size: 2rem;
     }
+
     #question-text {
         font-size: 1.3rem;
     }
